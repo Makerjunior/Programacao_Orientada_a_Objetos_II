@@ -39,7 +39,7 @@
 > 🔔 *Ative o sininho no YouTube para receber notificações dos vídeos novos!*
 
 
-## 📈 Métricas (Exemplo com shields.io)
+## 📈 Métricas 
 
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
 
