@@ -1,6 +1,6 @@
 # 🎥 Bem-vindo ao Canal Mente Maker no YouTube!
 
-[![YouTube Banner](https://img.youtube.com/vi/hic4YGMUafg/maxresdefault.jpg)](https://youtube.com/@SeuCanal?sub_confirmation=1)
+[![YouTube Banner](https://img.youtube.com/vi/hic4YGMUafg/maxresdefault.jpg)](https://youtube.com/@MenteMaker?sub_confirmation=1)
 
 > 🎬 Conteúdo novo toda semana.
 ---
