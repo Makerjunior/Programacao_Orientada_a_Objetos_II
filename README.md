@@ -1,20 +1,17 @@
 # 🎥 Bem-vindo ao Canal Mente Maker no YouTube!
 
-[![YouTube Banner](https://img.youtube.com/vi/hic4YGMUafg/maxresdefault.jpg)](https://youtube.com/@MenteMaker?sub_confirmation=1)
-
-> 🎬 Conteúdo novo toda semana.
----
 
 ### 🚀 Se inscreva no canal para não perder nada!
 
 [![Inscreva-se](https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/@MenteMaker?sub_confirmation=1)
-[![Visualizar Canal](https://img.shields.io/badge/Ver%20Canal-👀-blue?style=for-the-badge)](https://youtube.com/@MenteMaker)
+
 
 ---
 
 ## 📌 Sobre o Canal
 
 🎯 Neste canal você vai encontrar:
+- Cursos 
 - Tutoriais e dicas
 - Séries semanais com conteúdo exclusivo
 - E muito mais!
@@ -53,3 +50,12 @@
 📢 **Não esqueça de se inscrever e compartilhar o canal com seus amigos!**
 
 [![Inscreva-se](https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/@MenteMaker?sub_confirmation=1)
+
+# Portfólio Programação Orientada a Objetos II - P1
+[![YouTube Banner](https://img.youtube.com/vi/hic4YGMUafg/maxresdefault.jpg)](https://youtube.com/@MenteMaker?sub_confirmation=1)
+  
+# Portfólio Programação Orientada a Objetos II - P2
+
+[![YouTube Banner](https://img.youtube.com/vi/1fIHJnw_pKM/maxresdefault.jpg)](https://youtube.com/@MenteMaker?sub_confirmation=1)
+
+## Em breve parte 3 e 4, aguarde ...
