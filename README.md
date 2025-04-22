@@ -58,4 +58,7 @@
 
 [![YouTube Banner](https://img.youtube.com/vi/1fIHJnw_pKM/maxresdefault.jpg)](https://youtube.com/@MenteMaker?sub_confirmation=1)
 
-## Em breve parte 3 e 4, aguarde ...
+[![YouTube Banner](https://img.youtube.com/vi/4oCIA63uDPg/maxresdefault.jpg)](https://youtube.com/@MenteMaker?sub_confirmation=1)
+
+
+## Em breve parte  4, aguarde ...
