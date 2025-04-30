@@ -1,5 +1,5 @@
 -- Criar o banco de dados
-CREATE DATABASE IF NOT EXISTS ;
+CREATE DATABASE IF NOT EXISTS  usuariosdb;
 
 -- Usar o banco de dados
 USE usuariosdb;
